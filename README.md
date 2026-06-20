@@ -1,4 +1,5 @@
 # NS Launcher
+<img width="1280" height="720" alt="VideoSnapshot_20260621_024212" src="https://github.com/user-attachments/assets/acf927eb-d8d5-415f-93b6-87487769f883" />
 
 A Nintendo Switch-style home screen launcher for Android TV - clean, fast, and built for the couch.
 
