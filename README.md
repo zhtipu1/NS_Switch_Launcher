@@ -110,7 +110,7 @@ adb shell pm enable com.google.android.tungsten.setupwraith
 
 Built by **Zahidul Haque Tipu**
 
-Based on [FLauncher](https://github.com/etiess/flauncher) by Étienne Fesser - open-source Android TV launcher licensed under GPL v3.
+Based on [FLauncher](https://github.com/etiess/flauncher](https://gitlab.com/flauncher/flauncher) by Étienne Fesser - open-source Android TV launcher licensed under GPL v3.
 
 Sound effects sourced from Deckthemes Switch 2 Sounds pack. (https://deckthemes.com/packs/view?themeId=12b04b34-00c1-4600-8e71-eb0a77f47962)
 
