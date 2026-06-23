@@ -18,6 +18,7 @@ NS Launcher replaces your Android TV home screen with a UI inspired by the Ninte
 - Sound feedback on navigation, launch, and menus - just like the real thing
 
 ## Screenshots:
+<img width="1920" height="1080" alt="Screenshot_20260621-201224" src="https://github.com/user-attachments/assets/cff98ba7-6155-4276-8a6b-0987e5cd4bd9" />
 <img width="1920" height="1080" alt="Screenshot_20260621-200403" src="https://github.com/user-attachments/assets/9d5e7630-a96e-4146-ad99-465375fc54fa" />
 <img width="1920" height="1080" alt="Screenshot_20260621-200417" src="https://github.com/user-attachments/assets/ef862597-9258-4963-9de6-ba05d5354e3c" />
 <img width="1920" height="1080" alt="Screenshot_20260621-200423" src="https://github.com/user-attachments/assets/6a1d124c-25e0-432e-8963-d328bd866402" />
